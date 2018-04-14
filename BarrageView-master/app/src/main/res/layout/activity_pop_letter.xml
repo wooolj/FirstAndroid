@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="400dp"
+    android:layout_height="400dp"
+    android:background="@drawable/letterbackground"
+    >
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:hint="这里是信箱。。。。"
+        android:layout_centerInParent="true"
+        android:background="@android:color/white"/>
+
+</RelativeLayout>
